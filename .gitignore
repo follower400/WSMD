@@ -1,0 +1,91 @@
+
+*.pyc
+
+node_modules/
+dist/
+.env
+frontend/.env
+.idea/
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+*.log
+*.log.*
+
+# 虚拟环境
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 项目特定目录
+.vector_cache/
+chroma_db/
+data/chroma_db/
+data/model_cache/
+data/vector_db/
+models_cache/
+vector_db/
+storage/chroma/
+storage/raw/
+audit/
+
+# 日志文件
+*.log
+init_knowledge_base.log
+init_vector_db.log
+model_engine.log
+core/model_engine.log
+
+# 向量数据库文件（Chroma 内部数据）
+*.parquet
+*.sqlite3
+chroma-*.db
+
+# 大模型缓存
+model_cache/
+.models/
+
+# 数据文件（如果你不希望提交原始数据，可以按需放开）
+data/raw/*.jsonl
+data/raw/*.json
+!data/raw/README.md   # 如果想保留一个说明文件
+data/raw/knowledge_data/
+
+# 前端 node_modules
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# 后端环境变量
+.env
+.env.local
+
+# 测试临时文件
+tests/__pycache__/
+.pytest_cache/
+
+# 临时备份
+*.bak
+*.backup
+backup/
+
+# 其他
+agent_role.md
+coderrules.md
+PROJECT_PLAN.md
+PROBLEMS.md

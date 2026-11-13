@@ -1,0 +1,62 @@
+[
+  {
+    "id": "law-neighbor-001",
+    "title": "中华人民共和国民法典",
+    "article": "第二百八十八条",
+    "dispute_type": "邻里纠纷",
+    "keywords": ["邻居", "相邻关系", "噪音", "装修", "扰民", "楼上", "楼下"],
+    "excerpt": "不动产的相邻权利人应当按照有利生产、方便生活、团结互助、公平合理的原则，正确处理相邻关系。",
+    "source_level": "national",
+    "region": "全国"
+  },
+  {
+    "id": "law-neighbor-002",
+    "title": "中华人民共和国噪声污染防治法",
+    "article": "相关条款",
+    "dispute_type": "邻里纠纷",
+    "keywords": ["噪音", "夜间", "施工", "扰民", "休息", "装修"],
+    "excerpt": "对噪声敏感建筑物集中区域内，禁止夜间进行产生噪声污染的建筑施工作业等活动。",
+    "source_level": "national",
+    "region": "全国"
+  },
+  {
+    "id": "law-property-001",
+    "title": "中华人民共和国民法典",
+    "article": "物业服务合同相关条款",
+    "dispute_type": "物业纠纷",
+    "keywords": ["物业", "物业费", "服务质量", "收费", "停车位", "停车费"],
+    "excerpt": "物业服务人应当按照约定和物业的使用性质，妥善维修、养护、清洁、绿化和经营管理物业服务区域内的业主共有部分。",
+    "source_level": "national",
+    "region": "全国"
+  },
+  {
+    "id": "law-property-002",
+    "title": "北京市物业管理条例",
+    "article": "相关条款",
+    "dispute_type": "物业纠纷",
+    "keywords": ["物业", "北京市", "物业费", "服务质量", "社区", "公开透明"],
+    "excerpt": "物业服务活动应当接受业主监督，物业服务收费应当公开透明。",
+    "source_level": "local",
+    "region": "北京"
+  },
+  {
+    "id": "law-family-001",
+    "title": "中华人民共和国民法典",
+    "article": "婚姻家庭编相关条款",
+    "dispute_type": "家庭纠纷",
+    "keywords": ["家庭", "夫妻", "财产", "赡养", "抚养"],
+    "excerpt": "家庭成员应当敬老爱幼、互相帮助，维护平等、和睦、文明的婚姻家庭关系。",
+    "source_level": "national",
+    "region": "全国"
+  },
+  {
+    "id": "law-family-002",
+    "title": "中华人民共和国反家庭暴力法",
+    "article": "相关条款",
+    "dispute_type": "家庭纠纷",
+    "keywords": ["家暴", "家庭", "保护", "人身安全"],
+    "excerpt": "国家禁止任何形式的家庭暴力，对家庭暴力受害人给予必要帮助和保护。",
+    "source_level": "national",
+    "region": "全国"
+  }
+]
